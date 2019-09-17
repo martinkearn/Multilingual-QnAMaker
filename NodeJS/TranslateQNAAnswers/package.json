@@ -1,0 +1,12 @@
+{
+  "name": "TranslateQNAAnswers",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {}
+}
